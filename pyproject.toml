@@ -1,0 +1,6 @@
+[project]
+name = "python-stdlib-compat"
+version = "1.0.0"
+description = "Static Python standard-library compatibility checker"
+requires-python = ">=3.10"
+dependencies = []
